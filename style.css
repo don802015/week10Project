@@ -1,0 +1,42 @@
+#left{
+    width: 300px;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    background-color: aliceblue;
+    border: solid 2px black;
+}
+#right{
+    width: 300px;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    background-color: aliceblue;
+    border: solid 2px black;
+}
+#center{
+    width: 300px;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    background-color: aliceblue;
+    border: solid 2px black;
+}
+#test{
+    width: 300px;
+    padding: 5px;
+    float: left;
+    left: 10px;
+    margin: 10px;
+    bottom: 20px;
+    background-color: aliceblue;
+    border: solid 2px black;
+}
+.para {
+    color: blue;
+    background-color: yellow;
+}
+.para2 {
+    color: pink;
+    background-color: GREAY;
+}
